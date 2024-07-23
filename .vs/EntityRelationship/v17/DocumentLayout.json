@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|c:\\users\\hp\\onedrive\\m\u00E1y t\u00EDnh\\entityrelationship\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|c:\\users\\hp\\onedrive\\m\u00E1y t\u00EDnh\\entityrelationship\\controllers\\functioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|solutionrelative:controllers\\functioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|c:\\users\\hp\\onedrive\\m\u00E1y t\u00EDnh\\entityrelationship\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|c:\\users\\hp\\onedrive\\m\u00E1y t\u00EDnh\\entityrelationship\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|solutionrelative:migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|c:\\users\\hp\\onedrive\\m\u00E1y t\u00EDnh\\entityrelationship\\datas\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|solutionrelative:datas\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|c:\\users\\hp\\onedrive\\m\u00E1y t\u00EDnh\\entityrelationship\\entities\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|solutionrelative:entities\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|c:\\users\\hp\\onedrive\\m\u00E1y t\u00EDnh\\entityrelationship\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|solutionrelative:entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|c:\\users\\hp\\onedrive\\m\u00E1y t\u00EDnh\\entityrelationship\\dtos\\createfunctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|solutionrelative:dtos\\createfunctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|c:\\users\\hp\\onedrive\\m\u00E1y t\u00EDnh\\entityrelationship\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|c:\\users\\hp\\onedrive\\m\u00E1y t\u00EDnh\\entityrelationship\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|c:\\users\\hp\\onedrive\\m\u00E1y t\u00EDnh\\entityrelationship\\dtos\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|solutionrelative:dtos\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|c:\\users\\hp\\onedrive\\m\u00E1y t\u00EDnh\\entityrelationship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|c:\\users\\hp\\onedrive\\m\u00E1y t\u00EDnh\\entityrelationship\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|solutionrelative:dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|c:\\users\\hp\\onedrive\\m\u00E1y t\u00EDnh\\entityrelationship\\migrations\\20240723021812_roleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|solutionrelative:migrations\\20240723021812_roleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|c:\\users\\hp\\onedrive\\m\u00E1y t\u00EDnh\\entityrelationship\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7816C0C6-4F95-4375-B401-37D4B7A74083}|EntityRelationship.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 896,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\RoleController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAqwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:20:05.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FunctionController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Controllers\\FunctionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FunctionController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Controllers\\FunctionController.cs",
+              "RelativeToolTip": "Controllers\\FunctionController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwDEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:40:30.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:25:22.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Datas\\DataContext.cs",
+              "RelativeDocumentMoniker": "Datas\\DataContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Datas\\DataContext.cs",
+              "RelativeToolTip": "Datas\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T01:51:47.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAQwD0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:15:03.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateFunctionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\DTOs\\CreateFunctionDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateFunctionDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\DTOs\\CreateFunctionDTO.cs",
+              "RelativeToolTip": "DTOs\\CreateFunctionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:32:28.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Entities\\Role.cs",
+              "RelativeToolTip": "Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:16:03.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Entities\\Function.cs",
+              "RelativeDocumentMoniker": "Entities\\Function.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Entities\\Function.cs",
+              "RelativeToolTip": "Entities\\Function.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:31:24.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:30:21.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateRoleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\DTOs\\CreateRoleDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateRoleDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\DTOs\\CreateRoleDTO.cs",
+              "RelativeToolTip": "DTOs\\CreateRoleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:19:35.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T01:49:24.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwCoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T01:55:12.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\DTOs\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateUserDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\DTOs\\CreateUserDTO.cs",
+              "RelativeToolTip": "DTOs\\CreateUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T03:14:36.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240723021812_RoleEntity.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Migrations\\20240723021812_RoleEntity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240723021812_RoleEntity.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\Migrations\\20240723021812_RoleEntity.cs",
+              "RelativeToolTip": "Migrations\\20240723021812_RoleEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T02:18:16.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\M\u00E1y t\u00EDnh\\EntityRelationship\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T01:56:07.34Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 356,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
